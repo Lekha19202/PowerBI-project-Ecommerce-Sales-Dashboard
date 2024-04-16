@@ -6,6 +6,6 @@ E-commerce Dashboard
 •	Used complex parameters to drill down in worksheet and customization using filters and Slicers
 •	Used different types of customized visualization
 •	Created connections between tables and enabled user-driven parameters for Visualization
-![Screenshot 2023-11-20 130606](https://github.com/Preeti-Rajput/PowerBi/assets/141327148/b94e5566-fed0-4278-ab90-70910f259481)
+![Dashboard.png](https://github.com/Lekha19202/PowerBI-project-Ecommerce-Sales-Dashboard/blob/main/Dashboard.png)
 
 
